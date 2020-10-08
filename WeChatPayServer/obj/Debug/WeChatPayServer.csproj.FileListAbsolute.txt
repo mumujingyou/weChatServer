@@ -1,0 +1,17 @@
+E:\1yxxy.com-ProjectPractice\Unity_wechatSDK_android\yuanma\WeChatPayServer\WeChatPayServer\bin\Debug\WeChatPayServer.exe.config
+E:\1yxxy.com-ProjectPractice\Unity_wechatSDK_android\yuanma\WeChatPayServer\WeChatPayServer\bin\Debug\WeChatPayServer.exe
+E:\1yxxy.com-ProjectPractice\Unity_wechatSDK_android\yuanma\WeChatPayServer\WeChatPayServer\bin\Debug\WeChatPayServer.pdb
+E:\1yxxy.com-ProjectPractice\Unity_wechatSDK_android\yuanma\WeChatPayServer\WeChatPayServer\bin\Debug\LitJson.dll
+E:\1yxxy.com-ProjectPractice\Unity_wechatSDK_android\yuanma\WeChatPayServer\WeChatPayServer\obj\Debug\WeChatPayServer.csprojAssemblyReference.cache
+E:\1yxxy.com-ProjectPractice\Unity_wechatSDK_android\yuanma\WeChatPayServer\WeChatPayServer\obj\Debug\WeChatPayServer.csproj.CopyComplete
+E:\1yxxy.com-ProjectPractice\Unity_wechatSDK_android\yuanma\WeChatPayServer\WeChatPayServer\obj\Debug\WeChatPayServer.exe
+E:\1yxxy.com-ProjectPractice\Unity_wechatSDK_android\yuanma\WeChatPayServer\WeChatPayServer\obj\Debug\WeChatPayServer.pdb
+E:\Unity\Mianshi\Wechat\yuanma\WeChatPayServer\WeChatPayServer\bin\Debug\WeChatPayServer.exe.config
+E:\Unity\Mianshi\Wechat\yuanma\WeChatPayServer\WeChatPayServer\bin\Debug\WeChatPayServer.exe
+E:\Unity\Mianshi\Wechat\yuanma\WeChatPayServer\WeChatPayServer\bin\Debug\WeChatPayServer.pdb
+E:\Unity\Mianshi\Wechat\yuanma\WeChatPayServer\WeChatPayServer\bin\Debug\LitJson.dll
+E:\Unity\Mianshi\Wechat\yuanma\WeChatPayServer\WeChatPayServer\obj\Debug\WeChatPayServer.csprojAssemblyReference.cache
+E:\Unity\Mianshi\Wechat\yuanma\WeChatPayServer\WeChatPayServer\obj\Debug\WeChatPayServer.csproj.CoreCompileInputs.cache
+E:\Unity\Mianshi\Wechat\yuanma\WeChatPayServer\WeChatPayServer\obj\Debug\WeChatPayServer.csproj.CopyComplete
+E:\Unity\Mianshi\Wechat\yuanma\WeChatPayServer\WeChatPayServer\obj\Debug\WeChatPayServer.exe
+E:\Unity\Mianshi\Wechat\yuanma\WeChatPayServer\WeChatPayServer\obj\Debug\WeChatPayServer.pdb
